@@ -128,7 +128,7 @@ These Terms are governed by the laws of **France**. Any disputes arising from th
 ## 11. **Contact Information**
 If you have any questions, concerns, or issues regarding these Terms or our services, please reach out to us:  
 - **Email**: contact@panais.xyz  
-- **Official Discord Server**: https://discord.gg/5shqv9Kygv 
+- **Official Discord Server**: [https://discord.gg/5shqv9Kygv](https://discord.gg/5shqv9Kygv)
 
 ---
 
